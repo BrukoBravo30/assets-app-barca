@@ -8,7 +8,7 @@
     "imagenUrl": "https://raw.githubusercontent.com/BrukoBravo30/assets-app-barca/main/lamine.jpg"
   },
   {
-    "nombre": "Robert Lewandowski",
+    "nombre": "Lewandowski",
     "dorsal": 9,
     "posicion": "Delantero",
     "nacionalidad": "Polonia",
@@ -160,7 +160,7 @@
     "imagenUrl": "https://raw.githubusercontent.com/BrukoBravo30/assets-app-barca/main/araujo.jpg"
   },
   {
-    "nombre": "Andreas Christensen",
+    "nombre": "Christensen",
     "dorsal": 15,
     "posicion": "Defensa",
     "nacionalidad": "Dinamarca",
