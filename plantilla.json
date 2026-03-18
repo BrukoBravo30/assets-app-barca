@@ -1,0 +1,26 @@
+[
+  {
+    "nombre": "Lamine Yamal",
+    "dorsal": 19,
+    "posicion": "Delantero",
+    "nacionalidad": "España",
+    "edad": 17,
+    "imagenUrl": "https://raw.githubusercontent.com/BrukoBravo30/assets-app-barca/main/lamine.jpg"
+  },
+  {
+    "nombre": "Robert Lewandowski",
+    "dorsal": 9,
+    "posicion": "Delantero",
+    "nacionalidad": "Polonia",
+    "edad": 36,
+    "imagenUrl": "https://raw.githubusercontent.com/BrukoBravo30/assets-app-barca/main/lewandowski.jpg"
+  },
+  {
+    "nombre": "Pedri",
+    "dorsal": 8,
+    "posicion": "Medio",
+    "nacionalidad": "España",
+    "edad": 22,
+    "imagenUrl": "https://raw.githubusercontent.com/BrukoBravo30/assets-app-barca/main/pedri.jpg"
+  }
+]
